@@ -1,7 +1,7 @@
 
 # BIST100 - NASDAQ - TEFAS Tickets 
 
-A Python functions for scraping real BIST100, NASDAQ, and TEFAS tickets on KAP and NASDAQ.
+Python functions for scraping real BIST100, NASDAQ, and TEFAS tickets on KAP and NASDAQ.
 
 
 ## Kullanımı
