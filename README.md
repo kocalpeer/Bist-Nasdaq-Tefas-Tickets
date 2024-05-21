@@ -8,7 +8,7 @@ Python functions for scraping real BIST100, NASDAQ, and TEFAS tickets on KAP and
 
 #### Take all tickets
 
-```http
+```
   takealltickets()
 ```
 
